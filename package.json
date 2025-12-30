@@ -1,0 +1,18 @@
+{
+  "name": "ray-chinese-docs",
+  "version": "1.0.0",
+  "description": "Ray分布式计算框架中文文档",
+  "main": "index.js",
+  "scripts": {
+    "start": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "keywords": [
+    "ray",
+    "distributed-computing",
+    "documentation",
+    "chinese"
+  ],
+  "author": "Ray Chinese Community",
+  "license": "Apache-2.0"
+}
